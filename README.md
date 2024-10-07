@@ -1,10 +1,9 @@
-<h3 align="left">interested in integrating omics data and unrealistic running goals...</h3>
+<h3 align="left">interested in integrating omics data, unrealistic running goals, and pretty pictures...</h3>
 
 <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
   <tr>
     <th style="text-align:centre;">about</th>
     <th style="text-align:centre;">useful</th>
-    <th style="text-align:centre;">...</th>
     <th style="text-align:centre;">...</th>
   </tr>
   <tr>
@@ -19,9 +18,6 @@
     </td>
     <td style="text-align:center;">
       <img src="https://github.com/mattlee821/aRt/blob/master/gradient/gradient1.gif" alt="til" width="200" height="200">
-    </td>
-    <td style="text-align:center;">
-      <img src="https://github.com/mattlee821/aRt/blob/master/circles/circle1.png" alt="til" width="200" height="200">
     </td>
   </tr>
 </table>
