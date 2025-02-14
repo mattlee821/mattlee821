@@ -1,4 +1,4 @@
-<h3 align="left">interested in integrating omics data, unrealistic running goals, and pretty pictures...</h3>
+<h3 align="left">interested in integrating omics data...</h3>
 
 <table style="width: 100%; margin: 0 auto; border-collapse: collapse;">
   <tr>
